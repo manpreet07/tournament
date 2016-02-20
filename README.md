@@ -7,7 +7,8 @@ Steps:-
 
 1. Go to directory /vagrant/tournament
 2. Connect to postgres database using psql command
-3. Once connected to database run tournament.sql script which will create necessary database, tables, and views for tournament application.
-4. Once database is successfully created, run tournament_test.py script from tournament directory to test the application
-5. Once tournament_test.py is executed, all units from will pass and success message will display at the end.
+3. Once connected to database run tournament.sql script by typing "\i tournament.sql" command which will create necessary database, tables, and views for tournament application.
+4. Once database is successfully created, type "\q" to exit database.
+5. Execute tournament_test.py script using "python tournament_test.py" command.
+6. Once tournament_test.py is executed, all units will be executed and success message will display at the end.
 
