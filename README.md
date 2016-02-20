@@ -1,7 +1,7 @@
-Tournament Planner
-=================
 
-Tournament planner application is based on the swiss-pairing system. In order to run this application, please follow below steps:-
+# Tournament
+
+Tournament is a database application based on the swiss-pairing system.
 
 Steps:-
 
